@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510805743570",
+    "project_id": "task-1-cd809",
+    "storage_bucket": "task-1-cd809.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510805743570:android:b028eb265ade87c84eda0b",
+        "android_client_info": {
+          "package_name": "com.shree.task_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3BCpA6Ugs9i8CLC1gBifwXHWk8UHgTMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
